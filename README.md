@@ -13,3 +13,6 @@ See a video of me explaining a program with multiple loops [here](https://youtu.
 
 ### Nested Loops: Program Explanation Video
 See a video of me explaining a program with nested loops [here](https://youtu.be/5Mfvp6EBuog)
+
+### Events: Program Explanation Video
+See a video of me explaining a program with events [here](https://youtu.be/Kxl6C-ztemw)
