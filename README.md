@@ -16,3 +16,6 @@ See a video of me explaining a program with nested loops [here](https://youtu.be
 
 ### Events: Program Explanation Video
 See a video of me explaining a program with events [here](https://youtu.be/lxxVfHFRVo4)
+
+### Variables: Program Explanation Video
+See a video of me explaining a program with variables [here](https://youtu.be/1MZcbtgEMVU)
