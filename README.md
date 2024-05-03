@@ -19,3 +19,6 @@ See a video of me explaining a program with events [here](https://youtu.be/lxxVf
 
 ### Variables: Program Explanation Video
 See a video of me explaining a program with variables [here](https://youtu.be/1MZcbtgEMVU)
+
+### Conditional Loops: Program Explanation Video
+See a video of me explaining a program with conditional loops [here](https://youtu.be/XtVAoDpo2dg)
