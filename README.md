@@ -22,3 +22,6 @@ See a video of me explaining a program with variables [here](https://youtu.be/1M
 
 ### Conditional Loops: Program Explanation Video
 See a video of me explaining a program with conditional loops [here](https://youtu.be/XtVAoDpo2dg)
+
+### If/Else: Program Explanation Video
+See a video of me explaining a program with if/else statements [here](https://youtu.be/T9XKLOUNghk)
