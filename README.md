@@ -25,3 +25,6 @@ See a video of me explaining a program with conditional loops [here](https://you
 
 ### If/Else: Program Explanation Video
 See a video of me explaining a program with if/else statements [here](https://youtu.be/T9XKLOUNghk)
+
+### Nested If/Else: Program Explanation Video
+See a video of me explaining a program with nested if/else statements [here](https://youtu.be/50wJcY9akjo)
