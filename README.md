@@ -28,3 +28,6 @@ See a video of me explaining a program with if/else statements [here](https://yo
 
 ### Nested If/Else: Program Explanation Video
 See a video of me explaining a program with nested if/else statements [here](https://youtu.be/50wJcY9akjo)
+
+### Compound If/Else: Program Explanation Video
+See a video of me explaining a program with Compound if/else statements [here](https://youtu.be/U0q18Edwqcw)
