@@ -34,3 +34,6 @@ See a video of me explaining a program with Compound if/else statements [here](h
 
 ### Abstractions: Program Explanation Video
 See a video of me explaining a program with abstractions [here](https://youtu.be/uVwgJyUkmCQ)
+
+### Lists: Program Explanation Video
+See a video of me explaining a program with lists [here](https://youtu.be/MSSusyG9ovo)
